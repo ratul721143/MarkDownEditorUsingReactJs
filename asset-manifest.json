@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MarkDownEditorUsingReactJs/static/css/main.5a608c92.chunk.css",
+    "main.js": "/MarkDownEditorUsingReactJs/static/js/main.b375cc45.chunk.js",
+    "main.js.map": "/MarkDownEditorUsingReactJs/static/js/main.b375cc45.chunk.js.map",
+    "runtime-main.js": "/MarkDownEditorUsingReactJs/static/js/runtime-main.1953bdfe.js",
+    "runtime-main.js.map": "/MarkDownEditorUsingReactJs/static/js/runtime-main.1953bdfe.js.map",
+    "static/js/2.335d0233.chunk.js": "/MarkDownEditorUsingReactJs/static/js/2.335d0233.chunk.js",
+    "static/js/2.335d0233.chunk.js.map": "/MarkDownEditorUsingReactJs/static/js/2.335d0233.chunk.js.map",
+    "index.html": "/MarkDownEditorUsingReactJs/index.html",
+    "static/css/main.5a608c92.chunk.css.map": "/MarkDownEditorUsingReactJs/static/css/main.5a608c92.chunk.css.map",
+    "static/js/2.335d0233.chunk.js.LICENSE.txt": "/MarkDownEditorUsingReactJs/static/js/2.335d0233.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1953bdfe.js",
+    "static/js/2.335d0233.chunk.js",
+    "static/css/main.5a608c92.chunk.css",
+    "static/js/main.b375cc45.chunk.js"
+  ]
+}
