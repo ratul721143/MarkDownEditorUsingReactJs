@@ -1,0 +1,24 @@
+.headerh1 {
+  background-color: #17202a;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 10px 0px;
+  color: white;
+  position: relative;
+  font-size: 25px;
+}
+
+.colorPicker {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  border: 1px solid green;
+  padding: 0px 0px;
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 780px) {
+  .headerh1 {
+    font-size: 20px;
+  }
+}
